@@ -50,7 +50,7 @@ Coinbase has turned me into a satisfied customer but there is always room for im
 As stated above, history has shown that exchanges with their native token tend to generate at least half a billion extra in revenue. Also, that coin can be used to buy any type of currency just like Stable Doller.
 ## What technologies would this additional product or service utilize?
 Binance coin is used and built on the Binance blockchain. Coinbase can either build on their Blockchain or use a third party like Binance to built on theirs.
-## * Why are these technologies appropriate for your solution?
+## Why are these technologies appropriate for your solution?
 Most Cryptos are built on their Blockchain and not all Blockchain are created equally. Those that have their Blockchain also have their native taken. Other currencies are built on top of those currencies. Binance and CRO token have proven that smart contracts are not necessary to have successful native currencies as long as the exchange is wildly successful. In this case, Coinbase is already one of the more successful exchange out right now. 
 
 # Addendum
